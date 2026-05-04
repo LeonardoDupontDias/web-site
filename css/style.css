@@ -32,7 +32,6 @@ ul{
 }
 
 section{
-    /* background: var(--bg-black-900); */
     background: var(--bg-black-900);
     min-height: 100vh;
     display: block;
